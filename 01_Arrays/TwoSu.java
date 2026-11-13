@@ -1,5 +1,5 @@
 
-public class TwoSum1 {
+public class TwoSu {
     public static void main(String[] args) {
 
         int[] arr = {2, 7, 11, 15};
